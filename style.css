@@ -228,6 +228,7 @@ footer {
   justify-content: center;
   gap: 3px;
   width: 100%;
+  background-color: rgb(6, 109, 75);
 }
 
 .filesPDF {
