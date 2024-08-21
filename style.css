@@ -128,8 +128,13 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
   padding: 15px 4px;
   border-radius: 10px;
+}
+
+.card h3 {
+  text-decoration: underline;
 }
 
 .card .card-img {
@@ -228,7 +233,6 @@ footer {
   justify-content: center;
   gap: 3px;
   width: 100%;
-  background-color: rgb(6, 109, 75);
 }
 
 .filesPDF {
@@ -241,7 +245,9 @@ footer {
   border-right: 1px solid var(--darkest-blue);
 }
 
-.filesPDF embed {
+.filesPDF h2 {
+  font-size: 20px;
+  text-decoration: underline;
 }
 
 .filesAudios {
