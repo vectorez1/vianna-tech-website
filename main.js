@@ -50,7 +50,7 @@ let filePopUp = createPopUp({
         <div class='filesContainer'>
           <div class='filesPDF'>
             <h2>PDF</h2>
-            <embed src='./assets/documents/trabajofinal.pdf'width='400px' height='500px'/>
+            <embed src='./assets/documents/trabajofinal.pdf'width='400px' height='400px'/>
           </div>
           <div class='filesAudios'>
             <h2>Audios</h2>
