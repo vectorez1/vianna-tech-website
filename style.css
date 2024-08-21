@@ -227,7 +227,6 @@ footer {
   display: flex;
   justify-content: center;
   gap: 3px;
-  background-color: aquamarine;
   width: 100%;
 }
 
